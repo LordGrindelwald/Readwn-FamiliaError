@@ -17,61 +17,11 @@
       "md5": ""
     },
     {
-      "name": "LightNovelMeta",
-      "fileName": "LightNovelMeta",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/LightnovelMeta.png",
-      "id": 8900092,
-      "lang": "en",
-      "ver": "1.0.4",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "ArchiveOfOurOwn",
-      "fileName": "ArchiveOfOurOwn",
-      "imageURL": "",
-      "id": 8900093,
-      "lang": "all",
-      "ver": "1.0.5",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Hentai Foundry",
-      "fileName": "HentaiFoundry",
-      "imageURL": "",
-      "id": 8900094,
-      "lang": "all",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Wuxiap",
-      "fileName": "Wuxiap",
-      "imageURL": "",
-      "id": 8900095,
-      "lang": "en",
-      "ver": "1.0.1",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
       "name": "FanNovel",
       "fileName": "FanNovel",
       "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/FanNovel.png",
       "id": 8900096,
       "lang": "en",
-      "ver": "1.0.1",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "Literotica",
-      "fileName": "Literotica",
-      "imageURL": "",
-      "id": 8900097,
-      "lang": "all",
       "ver": "1.0.1",
       "libVer": "1.0.0",
       "md5": ""
@@ -87,50 +37,10 @@
       "md5": ""
     },
     {
-      "name": "WuxiaFox",
-      "fileName": "WuxiaFox",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/WuxiaFox.png",
-      "id": 8900099,
-      "lang": "en",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
       "name": "LtNovel",
       "fileName": "LtNovel",
       "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/LTNovel.png",
       "id": 8900090,
-      "lang": "en",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "WuxiaOne",
-      "fileName": "WuxiaOne",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/WuxiaFox.png",
-      "id": 8900087,
-      "lang": "en",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "WuxiaBox",
-      "fileName": "WuxiaBox",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/FanNovel.png",
-      "id": 8900088,
-      "lang": "en",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "WuxiaMate",
-      "fileName": "WuxiaMate",
-      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/Wuxiamate.png",
-      "id": 8900089,
       "lang": "en",
       "ver": "1.0.0",
       "libVer": "1.0.0",
