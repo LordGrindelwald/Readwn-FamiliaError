@@ -4,7 +4,7 @@ Personal extensions for Shosetsu
 
 #### Add the repo to Shosetsu using this Url:
 
-https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master
+https://raw.githubusercontent.com/LordGrindelwald/Readwn-FamiliaError/master
 
 
 ### Repo Extensions
