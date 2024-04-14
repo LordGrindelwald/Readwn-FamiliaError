@@ -1,6 +1,7 @@
-# Extensions - Universe
-
-Personal extensions for Shosetsu
+# Extensions - Readwn Familia
+In case of Shosetsu error add extension from this repo then remove old extension and then this extension. Wait and reinstall old extension.
+Do not let both extensions installed (even though they work that way).
+P.S. I don't know shit about coding. I'm just addicted to reading.
 
 #### Add the repo to Shosetsu using this Url:
 
