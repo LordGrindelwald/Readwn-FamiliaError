@@ -45,8 +45,8 @@ local GENRES = {
 }
 
 return Require("ReadWN")("https://www.ltnovels.com", {
-    id = 1308639973,
-    name = "I LtNovel™",
+    id = 8900090,
+    name = "LtNovel",
     shrinkURLNovel = "^.-ltnovels%.com",
     hasCloudFlare = true,
 
