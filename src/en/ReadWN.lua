@@ -60,7 +60,7 @@ local GENRES = {
 
 return Require("ReadWN")("https://www.wuxiabox.com", {
 	id = 8900091,
-	name = "I ReadWN™",
+	name = "ReadWN",
 	shrinkURLNovel = "^.-wuxiabox%.com",
 	hasCloudFlare = true,
 
