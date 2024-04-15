@@ -45,6 +45,16 @@
       "ver": "1.0.0",
       "libVer": "1.0.0",
       "md5": ""
+    },
+    {
+      "name": "WuxiaMate",
+      "fileName": "WuxiaMate",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/Wuxiamate.png",
+      "id": 8900099,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
     }
   ]
 }
